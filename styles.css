@@ -1,0 +1,50 @@
+header{
+    background-color: white;
+    box-shadow: 5px;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 5px;
+}
+
+#bodyDiv{
+    background-color: rgb(244, 244, 244);
+    width: 100%;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+html, body{
+    margin: 0px;
+    height: 100%;
+}
+
+#newBook{
+    font-family: 'Courier New', Courier, monospace;
+    margin: 10px;
+}
+
+#idForm{
+    display: block;
+}
+
+.container{
+    background-color: rgb(244, 244, 244);
+    height: 100%;
+
+}
+
+.formClass{
+    padding: 2px;
+    display: block;
+}
+
+.remove-button{
+    margin-left: 10px;
+}
+
+#library-record-container{
+    padding: 10px;
+}
